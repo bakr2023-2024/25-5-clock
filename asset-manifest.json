@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/25-5-clock.git/static/css/main.31d6cfe0.css",
+    "main.js": "/25-5-clock.git/static/js/main.8c87231b.js",
+    "index.html": "/25-5-clock.git/index.html",
+    "main.8c87231b.js.map": "/25-5-clock.git/static/js/main.8c87231b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.8c87231b.js"
+  ]
+}
